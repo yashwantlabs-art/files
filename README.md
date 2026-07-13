@@ -1,2 +1,3 @@
 # files
 gunral files
+!#/bin 
